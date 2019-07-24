@@ -5,8 +5,7 @@
 <div id="texto1">Si dudas de la capacidad de escuchar de tu TJBot, Catalinita te saca de dudas. Ella repetirá todo lo que tú le digas.</div>
 <br>
 
-
-### Poner en marcha el programa Catalinita\_lorito.js
+## Poner en marcha el programa Catalinita\_lorito.js
 
 <div id="texto2">Sólo tienes que hacer cinco cosas:</div><br>
 <div id="texto3">1) Descargar el programa <a href="https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_lorito.js">Catalinita_lorito.js</a> a la raspberrypi.</div>
@@ -18,7 +17,7 @@
 <div id="texto8">5) Ejecutar: </div>
 <div id="texto9">sudo node Catalinita\_lorito.js</div><br>
   
-### Usar el programa Catalinita\_lorito.js
+## Usar el programa Catalinita\_lorito.js
 
 <div id="texto10">Puedes interactuar con Catalinita diciéndole:</div><br>
 <div id="texto11">1) "Hola": te saludará.</div>
