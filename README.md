@@ -13,6 +13,7 @@
 <div id="texto5">3) Asegurar que en ese directorio haya un subdirectorio llamado node\_modules </div>
 <div id="texto15">En caso negativo, ejecutar:</div>
 <div id="texto6">npm install </div>
+*npm install
 <div id="texto7">4) Asegurar que en el mismo directorio exista y esté bien completado el fichero de credenciales config.js <br>
 <div id="texto8">5) Ejecutar: </div>
 <div id="texto9">sudo node Catalinita\_lorito.js</div><br>
