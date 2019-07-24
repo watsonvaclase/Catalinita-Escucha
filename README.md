@@ -15,7 +15,7 @@
 <div id="texto6">     npm install </div>
 <div id="texto7">4) Asegurar que en el mismo directorio exista y esté bien completado el fichero de credenciales config.js <br>
 <div id="texto8">5) Ejecutar: </div>
-<div id="texto9">sudo node Catalinita\_lorito.js</div><br>
+
   
 ## Usar el programa Catalinita\_lorito.js
 
