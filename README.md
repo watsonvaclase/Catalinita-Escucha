@@ -12,7 +12,7 @@
 <div id="texto4">2) Ubicar el programa descargado (Catalinita\_lorito.js) en el directorio donde esté el programa conversation.js del TJBot.</div>
 <div id="texto5">3) Asegurar que en ese directorio haya un subdirectorio llamado node\_modules </div>
 <div id="texto15">En caso negativo, ejecutar:</div>
-<div id="texto6">*npm install</i>*</div>
+<div id="texto6"> *npm install* </i></div>
 
 <div id="texto7">4) Asegurar que en el mismo directorio exista y esté bien completado el fichero de credenciales config.js <br>
 <div id="texto8">5) Ejecutar: </div>
