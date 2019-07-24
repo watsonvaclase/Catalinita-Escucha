@@ -6,11 +6,6 @@
 <br>
 
 
-
-<div id="texto14">(Si Catalinita\lorito.js te funciona perfectamente, pero el programa conversation.js del TJBot no te responde nada, recuerda que cuando uses el conversation.js debes empezar cada frase que digas con el nombre del TJBot que hayas definido. Si no le has puesto ningún nombre específicamente, por defecto su nombre es Watson.<br>
-Asegúrate de que el TJBot entiende bien el nombre que has elegido.</div><br>
-
-
 ### Poner en marcha el programa Catalinita\_lorito.js
 
 <div id="texto2">Sólo tienes que hacer cinco cosas:</div><br>
@@ -22,7 +17,7 @@ Asegúrate de que el TJBot entiende bien el nombre que has elegido.</div><br>
 
 <div id="texto7">4) Asegurar que en el mismo directorio exista y esté bien completado el fichero de credenciales config.js <br>
 <div id="texto8">5) Ejecutar: </div>
-<div id="texto9">sudo node Catalinita\_lorito.js</div><br>
+<div id="texto9">sudo node Catalinita\_lorito.js</div>
   
   ### Usar el programa Catalinita\_lorito.js
 
@@ -31,3 +26,5 @@ Asegúrate de que el TJBot entiende bien el nombre que has elegido.</div><br>
 <div id="texto12">2) "Adiós": se despedirá.</div>
 <div id="texto13">3) O cualquier cosa: te repetirá lo que te haya entendido. </div><br>
 
+<div id="texto14">Si Catalinita\lorito.js te funciona perfectamente, pero el programa conversation.js del TJBot no te responde nada, recuerda que cuando uses el conversation.js debes empezar cada frase que digas con el nombre del TJBot que hayas definido. Si no le has puesto ningún nombre específicamente, por defecto su nombre es Watson.<br>
+Asegúrate de que el TJBot entiende bien el nombre que has elegido.</div><br>
