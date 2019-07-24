@@ -1,7 +1,7 @@
 
 
 ## Catalinita te ayuda a probar la capacidad de escuchar de tu TJBot
-<img id="img1" src="Catalinita/Catalinita.png" width="300" height="404"> <br>
+<img id="img1" src="Catalinita/Catalinita.png" width="150" height="186"> <br>
 <div id="texto1">Si dudas de la capacidad de escuchar de tu TJBot, Catalinita te saca de dudas. Ella repetirá todo lo que tú le digas.</div>
 <br>
 
