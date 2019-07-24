@@ -17,7 +17,7 @@
 <div id="texto8">5) Ejecutar: </div>
 <div id="texto9">sudo node Catalinita\_lorito.js</div><br>
   
-### Poner en marcha el programa Catalinita\_lorito.js
+### Utilizar el programa Catalinita\_lorito.js
 
 <div id="texto10">Puedes interactuar con Catalinita diciéndole:</div><br>
 <div id="texto11">1) "Hola": te saludará.</div>
