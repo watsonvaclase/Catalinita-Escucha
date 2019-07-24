@@ -21,7 +21,7 @@
 <div id="texto10">Puedes interactuar con Catalinita diciéndole:</div><br>
 <div id="texto11">1) "Hola": te saludará.</div>
 <div id="texto12">2) "Adiós": se despedirá.</div>
-<div id="texto13">3) O cualquier cosa: te repetirá lo que te haya entendido. <br></div>
+<div id="texto13">3) O cualquier cosa: te repetirá lo que te haya entendido. </div><br>
 
 <div id="texto14">(Si Catalinita\lorito.js te funciona perfectamente, pero el programa conversation.js del TJBot no te responde nada, recuerda que cuando uses el conversation.js debes empezar cada frase que digas con el nombre del TJBot que hayas definido. Si no le has puesto ningún nombre específicamente, por defecto su nombre es Watson.<br>
 Asegúrate de que el TJBot entiende bien el nombre que has elegido.</div><br>
