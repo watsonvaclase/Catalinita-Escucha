@@ -6,7 +6,7 @@
 <br>
 
 ### Poner en marcha el programa Catalinita\_lorito.js
-<div id="texto2">Sólo tienes que hacer cinco cosas:</div>
+<div id="texto2">Sólo tienes que hacer cinco cosas:</div><br>
 <div id="texto3">1) Descargar el programa <a href="https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_lorito.js">Catalinita_lorito.js</a> a la raspberrypi.</div>
 <div id="texto4">2) Ubicar el programa descargado (Catalinita\_lorito.js) en el directorio donde esté el programa conversation.js del TJBot.</div>
 <div id="texto5">3) Asegurar que en ese directorio haya un subdirectorio llamado node\_modules. En caso negativo, ejecutar:</div>
@@ -16,8 +16,8 @@
 <div id="texto8">5) Ejecutar: </div>
 <div id="texto9">sudo node Catalinita\_lorito.js</div><br>
 
-### Usar el programa Catalinita\_lorito.js
-<div id="texto10">Puedes interactuar con Catalinita diciéndole:</div>
+### Usar el programa Catalinita\_lorito.js<br>
+<div id="texto10">Puedes interactuar con Catalinita diciéndole:</div><br>
 <div id="texto11">1) "Hola": te saludará.</div>
 <div id="texto12">2) "Adiós": se despedirá.</div>
 <div id="texto13">3) O cualquier cosa: te repetirá lo que te haya entendido. <br></div>
